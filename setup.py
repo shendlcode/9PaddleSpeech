@@ -67,7 +67,8 @@ base = [
     "braceexpand",
     "pyyaml",
     "paddleslim>=2.3.4",
-    "paddleaudio>=1.1.0",
+    "paddleaudio",
+   # "paddleaudio>=1.1.0",
     "hyperpyyaml",
 ]
 
